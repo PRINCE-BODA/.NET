@@ -1,0 +1,14 @@
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\bin\Debug\net8.0\Lab-5.exe
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\bin\Debug\net8.0\Lab-5.deps.json
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\bin\Debug\net8.0\Lab-5.runtimeconfig.json
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\bin\Debug\net8.0\Lab-5.dll
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\bin\Debug\net8.0\Lab-5.pdb
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.AssemblyInfoInputs.cache
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.AssemblyInfo.cs
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.csproj.CoreCompileInputs.cache
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.dll
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\refint\Lab-5.dll
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.pdb
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\Lab-5.genruntimeconfig.cache
+E:\Sem-5\Asp.net\LabWork\LabWork\Lab-5\obj\Debug\net8.0\ref\Lab-5.dll
