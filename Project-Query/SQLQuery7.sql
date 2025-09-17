@@ -1,0 +1,1 @@
+DBCC CHECHIDENT ('Department',RESEED,8)
