@@ -1,0 +1,2000 @@
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\appsettings.Development.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\appsettings.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ar.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-cyrl.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-latn.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ca.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\cs.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\da.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\de.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\el.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\en.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\es.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\et.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fa.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fi.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fr.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\he.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hi.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hr.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hu.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hy.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\id.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\it.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ja.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ka.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ko.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lt.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lv.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ms.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nb.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nl.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pl.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt-br.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\rs.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ru.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\se.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sk.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sl.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sq.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\th.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\tr.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ua.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\vi.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-cn.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-tw.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\bootstrap-icons\bootstrap-icons.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\echarts\package.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\remixicon\remixicon.glyph.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\bower.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\composer.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\package.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.exe
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.deps.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.dll
+E:\Sem-5\Asp.net\HMS\bin\Debug\net8.0\HMS.pdb
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.dll
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\refint\HMS.dll
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.pdb
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+E:\Sem-5\Asp.net\HMS\obj\Debug\net8.0\ref\HMS.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\appsettings.Development.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\appsettings.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ar.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-cyrl.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-latn.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ca.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\cs.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\da.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\de.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\el.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\en.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\es.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\et.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fa.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fi.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fr.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\he.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hi.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hr.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hu.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hy.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\id.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\it.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ja.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ka.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ko.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lt.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lv.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ms.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nb.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nl.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pl.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt-br.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\rs.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ru.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\se.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sk.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sl.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sq.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\th.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\tr.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ua.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\vi.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-cn.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-tw.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\bootstrap-icons\bootstrap-icons.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\echarts\package.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\remixicon\remixicon.glyph.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\bower.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\composer.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\package.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.exe
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.deps.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\HMS.pdb
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.dll
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\refint\HMS.dll
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.pdb
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\ref\HMS.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\Sem-5\Asp.net\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+E:\Sem-5\Asp.net\Project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\appsettings.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ar.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-cyrl.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-latn.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ca.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\cs.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\da.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\de.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\el.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\en.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\es.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\et.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fa.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fi.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fr.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\he.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hi.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hr.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hu.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hy.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\id.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\it.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ja.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ka.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ko.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lt.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lv.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ms.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nb.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nl.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pl.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt-br.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\rs.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ru.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\se.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sk.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sl.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sq.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\th.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\tr.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ua.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\vi.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-cn.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-tw.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\echarts\package.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\remixicon\remixicon.glyph.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\bower.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\composer.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\package.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.exe
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.deps.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\refint\HMS.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\obj\Debug\net8.0\ref\HMS.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\appsettings.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ar.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-cyrl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-latn.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ca.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\cs.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\da.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\de.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\el.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\en.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\es.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\et.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fa.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\he.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hu.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hy.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\id.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\it.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ja.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ka.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ko.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lt.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lv.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ms.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nb.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt-br.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\rs.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ru.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\se.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sk.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sq.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\th.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\tr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ua.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\vi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-cn.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-tw.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\echarts\package.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\remixicon\remixicon.glyph.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\bower.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\composer.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\package.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.exe
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.deps.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\refint\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\Project\HMS\obj\Debug\net8.0\ref\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ar.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-cyrl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\be-latn.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ca.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\cs.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\da.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\de.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\el.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\en.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\es.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\et.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fa.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\fr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\he.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hu.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\hy.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\id.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\it.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ja.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ka.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ko.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lt.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\lv.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ms.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nb.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\nl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt-br.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\pt.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\rs.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ru.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\se.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sk.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sl.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\sq.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\th.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\tr.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\ua.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\vi.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-cn.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\apexcharts\locales\zh-tw.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\bootstrap-icons\bootstrap-icons.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\echarts\package.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\remixicon\remixicon.glyph.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\bower.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\composer.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Controllers\vendor\tinymce\package.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\appsettings.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.exe
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.deps.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\refint\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS\obj\Debug\net8.0\ref\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\appsettings.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.exe
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.deps.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Humanizer.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\refint\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.pdb
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\obj\Debug\net8.0\ref\HMS.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ClosedXML.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ClosedXML.Parser.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\ExcelNumberFormat.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\RBush.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\SixLabors.Fonts.dll
+C:\Users\manis\OneDrive\Desktop\HMS Project\HMS Project\HMS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\MONANK\HMS\bin\Debug\net8.0\appsettings.Development.json
+D:\MONANK\HMS\bin\Debug\net8.0\appsettings.json
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.exe
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.deps.json
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.dll
+D:\MONANK\HMS\bin\Debug\net8.0\HMS.pdb
+D:\MONANK\HMS\bin\Debug\net8.0\ClosedXML.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\MONANK\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\MONANK\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Humanizer.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\MONANK\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\MONANK\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Common.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\MONANK\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\MONANK\HMS\bin\Debug\net8.0\RBush.dll
+D:\MONANK\HMS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\MONANK\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\MONANK\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\MONANK\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+D:\MONANK\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+D:\MONANK\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\MONANK\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\MONANK\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\MONANK\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\MONANK\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+D:\MONANK\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+D:\MONANK\HMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\MONANK\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\MONANK\HMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\MONANK\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\MONANK\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.dll
+D:\MONANK\HMS\obj\Debug\net8.0\refint\HMS.dll
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.pdb
+D:\MONANK\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+D:\MONANK\HMS\obj\Debug\net8.0\ref\HMS.dll
+D:\.net project\HMS\bin\Debug\net8.0\appsettings.Development.json
+D:\.net project\HMS\bin\Debug\net8.0\appsettings.json
+D:\.net project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+D:\.net project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+D:\.net project\HMS\bin\Debug\net8.0\HMS.exe
+D:\.net project\HMS\bin\Debug\net8.0\HMS.deps.json
+D:\.net project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+D:\.net project\HMS\bin\Debug\net8.0\HMS.dll
+D:\.net project\HMS\bin\Debug\net8.0\HMS.pdb
+D:\.net project\HMS\bin\Debug\net8.0\ClosedXML.dll
+D:\.net project\HMS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\.net project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\.net project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\.net project\HMS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\.net project\HMS\bin\Debug\net8.0\Humanizer.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\.net project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\.net project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\.net project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\.net project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\.net project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\.net project\HMS\bin\Debug\net8.0\RBush.dll
+D:\.net project\HMS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\.net project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\.net project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\.net project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+D:\.net project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\.net project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+D:\.net project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+D:\.net project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+D:\.net project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+D:\.net project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+D:\.net project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+D:\.net project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\.net project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\.net project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\.net project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\.net project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+D:\.net project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+D:\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\.net project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\.net project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\.net project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+D:\.net project\HMS\obj\Debug\net8.0\HMS.dll
+D:\.net project\HMS\obj\Debug\net8.0\refint\HMS.dll
+D:\.net project\HMS\obj\Debug\net8.0\HMS.pdb
+D:\.net project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+D:\.net project\HMS\obj\Debug\net8.0\ref\HMS.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\appsettings.Development.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\appsettings.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.staticwebassets.runtime.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.staticwebassets.endpoints.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.exe
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.deps.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.runtimeconfig.json
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\HMS.pdb
+D:\my project\.net project\HMS\bin\Debug\net8.0\ClosedXML.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ClosedXML.Parser.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\DocumentFormat.OpenXml.Framework.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ExcelNumberFormat.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Humanizer.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Build.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Common.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\RBush.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\SixLabors.Fonts.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.CodeDom.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.IO.Packaging.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\my project\.net project\HMS\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.csproj.AssemblyReference.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.GeneratedMSBuildEditorConfig.editorconfig
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.AssemblyInfoInputs.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.AssemblyInfo.cs
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.csproj.CoreCompileInputs.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.MvcApplicationPartsAssemblyInfo.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.RazorAssemblyInfo.cs
+D:\my project\.net project\HMS\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\my project\.net project\HMS\obj\Debug\net8.0\scopedcss\bundle\HMS.styles.css
+D:\my project\.net project\HMS\obj\Debug\net8.0\scopedcss\projectbundle\HMS.bundle.scp.css
+D:\my project\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\staticwebassets.development.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\my project\.net project\HMS\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.csproj.Up2Date
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.dll
+D:\my project\.net project\HMS\obj\Debug\net8.0\refint\HMS.dll
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.pdb
+D:\my project\.net project\HMS\obj\Debug\net8.0\HMS.genruntimeconfig.cache
+D:\my project\.net project\HMS\obj\Debug\net8.0\ref\HMS.dll
