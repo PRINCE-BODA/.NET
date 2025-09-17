@@ -1,0 +1,58 @@
+﻿@model HMS.Models.DepartmentModel
+
+<div class="container mt-4">
+    <h4 class="fw-bold text-primary"><i class="bi bi-building-add me-2"></i>Department Add/Edit</h4>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb bg-light px-3 py-2 rounded shadow-sm">
+            <li class="breadcrumb-item"><a href="~/Home/Index" class="text-decoration-none text-dark">Dashboard</a></li>
+            <li class="breadcrumb-item"><a href="/Department/DepartmentList" class="text-decoration-none text-dark">Department List</a></li>
+            <li class="breadcrumb-item active text-primary" aria-current="page">Department Add/Edit</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-primary text-white">
+            <h5 class="mb-0"><i class="bi bi-plus-square me-2"></i>Enter Department Details</h5>
+        </div>
+        <div class="card-body">
+            <form method="post" asp-controller="Department" asp-action="DepartmentSave">
+                <input asp-for="DepartmentID" type="hidden" />
+
+                <div class="row g-3">
+                    <div class="col-md-6">
+                        <label asp-for="DepartmentName" class="form-label fw-semibold">Department Name</label>
+                        <input asp-for="DepartmentName" type="text" class="form-control" placeholder="Enter department name" required />
+                        <span asp-validation-for="DepartmentName" class="text-danger"></span>
+                    </div>
+
+                    <label asp-for="UserID"></label>
+                    <select asp-for="UserID" asp-items="@(new SelectList(ViewBag.UserList, "UserID", "UserName"))" class="form-control">
+                        <option value="">-- Select User --</option>
+                    </select>
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+
+                    <div class="col-md-12">
+                        <label asp-for="Description" class="form-label fw-semibold">Description</label>
+                        <textarea asp-for="Description" rows="3" class="form-control" placeholder="Optional description..."></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="col-12">
+                        <div class="form-check">
+                            <input asp-for="IsActive" type="checkbox" class="form-check-input" />
+                            <label class="form-check-label" asp-for="IsActive">Is Active</label>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mt-4 text-end">
+                    <button type="submit" class="btn btn-primary px-4">
+                        <i class="bi bi-save2 me-1"></i> Save Department
+                    </button>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

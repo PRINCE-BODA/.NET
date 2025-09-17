@@ -1,0 +1,148 @@
+﻿@model System.Data.DataTable
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" />
+<link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet" />
+
+<style>
+    body {
+        background: linear-gradient(135deg, #eceff1, #f8f9fa);
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+
+    h1 {
+        color: #212529;
+        font-weight: 700;
+        letter-spacing: 1px;
+    }
+
+    .dashboard-header {
+        background: #f8f9fa;
+        color: white;
+        padding: 25px;
+        border-radius: 12px;
+        text-align: center;
+    }
+
+    .card {
+        border: none;
+        border-radius: 14px;
+        transition: all 0.3s ease;
+        color: white;
+    }
+
+        .card:hover {
+            transform: translateY(-8px);
+            box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.15);
+        }
+
+    .icon {
+        font-size: 50px;
+        margin-bottom: 15px;
+    }
+
+    .card-body h5 {
+        font-size: 18px;
+        font-weight: 600;
+    }
+
+    .card-text {
+        font-size: 24px;
+        font-weight: bold;
+    }
+    /* Blue button with smooth hover */
+    .btn-view-details {
+        background-color: #0d6efd; /* Bootstrap primary blue */
+        color: white;
+        font-weight: 600;
+        border-radius: 8px;
+        padding: 8px 18px;
+        transition: background-color 0.3s ease, box-shadow 0.3s ease;
+        border: none;
+        box-shadow: 0 3px 6px rgba(13, 110, 253, 0.3);
+    }
+
+        .btn-view-details:hover,
+        .btn-view-details:focus {
+            background-color: #084cd5; /* Darker blue on hover */
+            box-shadow: 0 6px 12px rgba(8, 76, 213, 0.5);
+            color: white;
+            text-decoration: none;
+            outline: none;
+        }
+</style>
+
+<div class="container py-4">
+    <div class="dashboard-header mb-5 shadow-sm">
+        <h1><i class="bi bi-hospital"></i> Hospital Management System Dashboard</h1>
+    </div>
+
+    <div class="row g-4">
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-people-fill icon"></i>
+                    <h5>Total Users</h5>
+                    <p class="card-text">@ViewBag.TotalUsers</p>
+                    <a href="@Url.Action("UsersList", "User")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-building icon"></i>
+                    <h5>Total Departments</h5>
+                    <p class="card-text">@ViewBag.TotalDepartments</p>
+                    <a href="@Url.Action("DepartmentList", "Department")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-person-badge-fill icon"></i>
+                    <h5>Total Doctors</h5>
+                    <p class="card-text">@ViewBag.TotalDoctors</p>
+                    <a href="@Url.Action("DoctorList", "Doctor")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-diagram-3-fill icon"></i>
+                    <h5>Doctor Departments</h5>
+                    <p class="card-text">@ViewBag.TotalDoctorDepartments</p>
+                    <a href="@Url.Action("DoctorDepartmentList", "DoctorDepartment")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-heart-pulse-fill icon"></i>
+                    <h5>Total Patients</h5>
+                    <p class="card-text">@ViewBag.TotalPatients</p>
+                    <a href="@Url.Action("PatientsList", "Patients")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-center p-3" style="background: linear-gradient(135deg, #4facfe, #00f2fe);">
+                <div class="card-body">
+                    <i class="bi bi-calendar-check-fill icon"></i>
+                    <h5>Total Appointments</h5>
+                    <p class="card-text">@ViewBag.TotalAppointments</p>
+                    <a href="@Url.Action("AppointmentsList", "Appointments")" class="btn btn-view-details">View Details</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

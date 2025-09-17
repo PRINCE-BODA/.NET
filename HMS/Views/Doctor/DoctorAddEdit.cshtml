@@ -1,0 +1,91 @@
+﻿@model HMS.Models.DoctorModel
+
+<div class="container mt-4">
+    <div class="container mt-4">
+        <h4 class="fw-bold text-primary"><i class="bi bi-person-badge-fill me-2"></i>Doctor Add/Edit</h4>
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb bg-light px-3 py-2 rounded shadow-sm">
+                <li class="breadcrumb-item"><a href="~/Home/Index" class="text-decoration-none text-dark">Dashboard</a></li>
+                <li class="breadcrumb-item"><a href="/Doctor/DoctorList" class="text-decoration-none text-dark">Doctor List</a></li>
+                <li class="breadcrumb-item active text-primary" aria-current="page">Doctor Add/Edit</li>
+            </ol>
+        </nav>
+    </div>
+
+
+</div>
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">
+                <i class="bi bi-person-plus me-2"></i>Enter Doctor Details
+            </h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("DoctorSave", "Doctor", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+
+                @Html.HiddenFor(m => m.DoctorID)
+
+                <div class="row g-3">
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(m => m.Name, "Name", new { @class = "form-label fw-semibold" })
+                        @Html.TextBoxFor(m => m.Name, new { @class = "form-control", placeholder = "Enter full name" })
+                        @Html.ValidationMessageFor(m => m.Name, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(m => m.Phone, "Phone", new { @class = "form-label fw-semibold" })
+                        @Html.TextBoxFor(m => m.Phone, new { @class = "form-control", placeholder = "Enter phone number" })
+                        @Html.ValidationMessageFor(m => m.Phone, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(m => m.Email, "Email", new { @class = "form-label fw-semibold" })
+                        @Html.TextBoxFor(m => m.Email, new { @class = "form-control", placeholder = "Enter email address" })
+                        @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(m => m.Qualification, "Qualification", new { @class = "form-label fw-semibold" })
+                        @Html.TextBoxFor(m => m.Qualification, new { @class = "form-control", placeholder = "E.g., MBBS, MD" })
+                        @Html.ValidationMessageFor(m => m.Qualification, "", new { @class = "text-danger" })
+                    </div>
+
+                    <div class="col-md-6">
+                        @Html.LabelFor(m => m.Specialization, "Specialization", new { @class = "form-label fw-semibold" })
+                        @Html.TextBoxFor(m => m.Specialization, new { @class = "form-control", placeholder = "E.g., Cardiologist" })
+                        @Html.ValidationMessageFor(m => m.Specialization, "", new { @class = "text-danger" })
+                    </div>
+
+                    <label asp-for="UserID"></label>
+                    <select asp-for="UserID" asp-items="@(new SelectList(ViewBag.UserList, "UserID", "UserName"))" class="form-control">
+                        <option value="">-- Select User --</option>
+                    </select>
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+
+                    <div class="col-12">
+                        <div class="form-check">
+                            @Html.CheckBoxFor(m => m.IsActive, new { @class = "form-check-input", id = "isActiveCheck" })
+                            @Html.LabelFor(m => m.IsActive, "Is Active", new { @class = "form-check-label", @for = "isActiveCheck" })
+                        </div>
+                    </div>
+
+                </div>
+
+                <div class="mt-4 text-end">
+                    <button type="submit" class="btn btn-primary px-4">
+                        <i class="bi bi-save2 me-1"></i> Save Doctor
+                    </button>
+                    @Html.ActionLink("Cancel", "DoctorList", "Doctor", null, new { @class = "btn btn-secondary ms-2 px-4" })
+                </div>
+            }
+        </div>
+    </div>
+</div>
+
+
+

@@ -1,0 +1,67 @@
+﻿@using System
+@model HMS.Models.DoctorDepartmentModel
+
+@{
+    var isEdit = Model.DoctorDepartmentID > 0;
+    ViewData["Title"] = isEdit ? "Edit Doctor-Department Mapping" : "Add Doctor-Department Mapping";
+}
+<div class="container mt-4">
+    <h4 class="fw-bold text-primary"><i class="bi bi-diagram-3-fill me-2"></i>Doctor Department Add/Edit</h4>
+    <nav aria-label="breadcrumb">
+        <ol class="breadcrumb bg-light px-3 py-2 rounded shadow-sm">
+            <li class="breadcrumb-item"><a href="~/Home/Index" class="text-decoration-none text-dark">Dashboard</a></li>
+            <li class="breadcrumb-item"><a href="/DoctorDepartment/DoctorDepartmentList" class="text-decoration-none text-dark">Doctor Department List</a></li>
+            <li class="breadcrumb-item active text-primary" aria-current="page">Doctor Department Add/Edit</li>
+        </ol>
+    </nav>
+</div>
+
+<div class="container mt-4">
+    <div class="card shadow border-0">
+        <div class="card-header bg-primary text-white">
+            <h5 class="mb-0">
+                <i class="bi bi-pencil-square me-2"></i>Enter Doctor-Department Mapping Details
+            </h5>
+        </div>
+        <div class="card-body">
+            @using (Html.BeginForm("DoctorDepartmentSave", "DoctorDepartment", FormMethod.Post))
+            {
+                @Html.AntiForgeryToken()
+                @Html.HiddenFor(m => m.DoctorDepartmentID)
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="row g-3">
+                    <div class="col-md-4">
+                        <label asp-for="DoctorID"></label>
+                        <select asp-for="DoctorID" asp-items="@(new SelectList(ViewBag.DoctorList, "DoctorID", "Name"))" class="form-control">
+                            <option value="">-- Select User --</option>
+                        </select>
+                        <span asp-validation-for="UserID" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-4">
+                        <label asp-for="DoctorDepartmentID"></label>
+                        <select asp-for="DoctorDepartmentID" asp-items="@(new SelectList(ViewBag.DepartmentList, "DepartmentID", "DepartmentName"))" class="form-control">
+                            <option value="">-- Select User --</option>
+                        </select>
+                        <span asp-validation-for="UserID" class="text-danger"></span>
+                    </div>
+                    <div class="col-md-4">
+                    <label asp-for="UserID"></label>
+                    <select asp-for="UserID" asp-items="@(new SelectList(ViewBag.UserList, "UserID", "UserName"))" class="form-control">
+                        <option value="">-- Select User --</option>
+                    </select>
+                    <span asp-validation-for="UserID" class="text-danger"></span>
+                    </div>
+                </div>
+
+                <div class="mt-4 text-end">
+                    <button type="submit" class="btn btn-primary px-4">
+                        <i class="bi bi-save2 me-1"></i> @((isEdit) ? "Update" : "Save")
+                    </button>
+                    @Html.ActionLink("Cancel", "DoctorDepartmentList", "DoctorDepartment", null, new { @class = "btn btn-secondary ms-2 px-4" })
+                </div>
+            }
+        </div>
+    </div>
+</div>
